@@ -19,7 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ajax-axios" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,7 +69,7 @@
       <workItem from="1589989953211" duration="3607000" />
       <workItem from="1590037637763" duration="4458000" />
       <workItem from="1590043967176" duration="600000" />
-      <workItem from="1590235670406" duration="1474000" />
+      <workItem from="1590235670406" duration="2690000" />
     </task>
     <servers />
   </component>
@@ -94,10 +94,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="971" y="350" width="432" height="467" key="#Notifications/0.0.1920.1040/-1920.109.1920.1040@0.0.1920.1040" timestamp="1589988760022" />
-    <state x="295" y="277" key="FileChooserDialogImpl" timestamp="1590235732496">
+    <state x="295" y="277" key="FileChooserDialogImpl" timestamp="1590299906933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="295" y="277" key="FileChooserDialogImpl/0.0.1920.1040/-1920.109.1920.1040@0.0.1920.1040" timestamp="1590235732496" />
+    <state x="295" y="277" key="FileChooserDialogImpl/0.0.1920.1040/-1920.109.1920.1040@0.0.1920.1040" timestamp="1590299906933" />
     <state x="858" y="254" key="IDE.errors.dialog" timestamp="1589988775752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
